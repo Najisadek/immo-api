@@ -199,7 +199,7 @@ POST /api/logout
 Authorization: Bearer {token}
 ```
 
-### visit /api/documentation for more
+### Visit /api/documentation for more
 
 ### Data Flow
 
