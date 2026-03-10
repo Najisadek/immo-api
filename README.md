@@ -72,8 +72,8 @@ POST /api/register
 Content-Type: application/json
 
 {
-    "name": "John Doe",
-    "email": "john@example.com",
+    "name": "Sadek Nadji",
+    "email": "naji@example.com",
     "password": "password123",
     "password_confirmation": "password123",
     "role": "agent",
@@ -89,7 +89,7 @@ POST /api/login
 Content-Type: application/json
 
 {
-    "email": "john@example.com",
+    "email": "naji@example.com",
     "password": "password123"
 }
 ```
@@ -101,8 +101,8 @@ Content-Type: application/json
     "data": {
         "user": {
             "id": 1,
-            "name": "John Doe",
-            "email": "john@example.com",
+            "name": "Sadek Nadji",
+            "email": "naji@example.com",
             "role": "agent"
         },
         "token": "1|abc123...",
@@ -208,4 +208,3 @@ Authorization: Bearer {token}
 3. **Repository**: Handles all database interactions
 4. **DTO**: Structures data between layers
 5. **Resource**: Formats JSON response
-# immo-api
