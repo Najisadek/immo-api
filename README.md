@@ -19,7 +19,7 @@ Laravel REST API for managing a real estate platform with role-based access cont
 | Create property                 | ✅    | ✅    | ❌    |
 | Edit own properties             | ✅    | ✅    | ❌    |
 | Delete own properties           | ✅    | ✅    | ❌    |
-| Edit all properties            | ✅    | ❌    | ❌    |
+| Edit all properties             | ✅    | ❌    | ❌    |
 | Delete all properties           | ✅    | ❌    | ❌    |
 | Upload images                   | ✅    | ✅    | ❌    |
 
